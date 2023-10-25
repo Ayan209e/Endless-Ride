@@ -29,8 +29,8 @@ function Header() {
                 </a>
               </li>
               <li className="nav-item ">
-                <a className="nav-link mx-lg-2 ::before white bg-red" href="#destination">
-                  destinations
+                <a className="nav-link mx-lg-2 ::before white bg-red" href="/login">
+                  Login
                 </a>
               </li>
               <li className="nav-item ">
